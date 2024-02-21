@@ -27,6 +27,10 @@ To play the game, simply open the code in any ide which have jdk environment ins
 - The AI will automatically make its move.
 - Continue playing until someone wins or the game ends in a draw.
 
+## PDF Documentation
 
+You can find detailed documentation about the project in the PDF file below:
+
+[Project Documentation PDF](Minor_Project/Tic Tac Toe With AI/ppt pdf TIC TAC TOE WITH AI.pdf)
 
 

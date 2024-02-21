@@ -29,8 +29,8 @@ To play the game, simply open the code in any ide which have jdk environment ins
 
 ## PDF Documentation
 
-You can find detailed documentation about the project in the PDF file below:
+Game tree.
 
-![Example Image](Minor_Project/Tic%20Tac%20Toe%20With%20AI/Slide4.JPG)
+![](Minor_Project/Tic%20Tac%20Toe%20With%20AI/Slide4.JPG)
 
 

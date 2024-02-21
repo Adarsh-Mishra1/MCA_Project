@@ -31,6 +31,6 @@ To play the game, simply open the code in any ide which have jdk environment ins
 
 You can find detailed documentation about the project in the PDF file below:
 
-[Minor_Project/Tic Tac Toe With AI/Slide4.JPG]
+(Minor_Project/Tic Tac Toe With AI/Slide4.JPG)
 
 

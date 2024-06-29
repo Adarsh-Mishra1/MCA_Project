@@ -1,0 +1,1 @@
+1.Page not showing newly inserted data after insert at add lecture.
